@@ -1,0 +1,7 @@
+experiments/**
+**/env/
+**/.env
+**/node_modules/
+**/target/
+
+
