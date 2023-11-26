@@ -3,5 +3,6 @@ experiments/**
 **/.env
 **/node_modules/
 **/target/
+jarvOSWebApp/
 
 
